@@ -18,5 +18,9 @@ ths is kitsclg
  ## push and pull
  - git push remotename branch name
  - git pull remote name branch name
+ ##remote
+ - git remote add remote name "repo link"
+ ## remote status
+ - 
  
  
