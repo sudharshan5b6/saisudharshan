@@ -15,4 +15,7 @@ ths is kitsclg
  - converted files into tracking area
  - ceate as snapshot by adding into stgging area
  - commite the changes with messages
+ ## push and pull
+ - git push remotename branch name
+ - git pull remote name branch name
  
