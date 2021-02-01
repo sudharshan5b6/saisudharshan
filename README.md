@@ -21,6 +21,17 @@ ths is kitsclg
  ##remote
  - git remote add remote name "repo link"
  ## remote status
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ##cloning existing repository
+ - git clone "repo link"foldername
+ ##undoing changes
+ - git
  - 
  
  
