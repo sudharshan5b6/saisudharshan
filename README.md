@@ -11,4 +11,8 @@ ths is kitsclg
  - python file name(executes a .py file)
  - mv old new(changes the filename)
  - rmdir(removing directory)
+ ## 3 steps to git files
+ - converted files into tracking area
+ - ceate as snapshot by adding into stgging area
+ - commite the changes with messages
  
